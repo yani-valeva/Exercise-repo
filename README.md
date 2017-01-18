@@ -5,4 +5,4 @@ This repository was created for exercisе. It was my first homework in Programmi
 The repository contains drawing problems and solutions of Programming basics course.
 
 
-
+This changes are made in my master.
