@@ -1,3 +1,8 @@
-# Exercise-repo
+﻿# Exercise-repo
 
-This repository contains drawing problems and solutions of Programming basics course.
+
+This repository was created for exercisе. It was my first homework in Programming Fundalentals course.
+The repository contains drawing problems and solutions of Programming basics course.
+
+
+
